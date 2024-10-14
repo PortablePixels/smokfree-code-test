@@ -1,6 +1,21 @@
 # Smoke Free - Code Test
 
+## Getting started
+
+1. Navigate to the top-right corner of this repository’s homepage.
+2. Click the green “Use this template” button.
+3. Select “Create a new repository”.
+4. In the creation screen, choose a name for your new repository, and make sure to set the repository to Private.
+5. After creating the repository, go to your repository’s Settings.
+6. Under Collaborators (on the left sidebar), click Add people.
+7. Add the following users so we can view your work:
+  - `ed-smokefree-ai`
+  - `McLeanAdam`
+
+Once you’ve completed the test, make sure all your changes are committed and pushed to your private repository.
+
 ## The Brief
+
 Produce an API to support a simple webapp game. The game takes a single word or phrase and assigns a score based on the length and correctness.
 
 Single word, if a palindrome the word score is 3 mutliplied by its length.
